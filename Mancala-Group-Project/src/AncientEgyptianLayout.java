@@ -8,7 +8,7 @@ import javax.imageio.ImageIO;
 
 /**
  * This Class is the ConcreteStrategy in the Strategy Pattern
- * @author Ashraf
+ * @author Ashraf Saber ,Juan Carlos Sandoval, Galen Rivoire 
  */
 public class AncientEgyptianLayout implements BoardLayout {
 
